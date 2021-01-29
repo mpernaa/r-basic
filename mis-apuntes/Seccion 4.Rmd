@@ -1,0 +1,13 @@
+---
+title: "Manejo de paquetes"
+output: pdf_document
+---
+# Manejo de Paquetes  
+install.packages ("nombrepaquete", dep = TRUE)  
+instala paquetes. dep = Dependencia
+
+library(nombrepaquete)
+uso del paquete
+
+installed.packages ()  
+info de los paquetes
